@@ -1,0 +1,14 @@
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\bin\Debug\net8.0\lesson001_HelloConsole.exe
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\bin\Debug\net8.0\lesson001_HelloConsole.deps.json
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\bin\Debug\net8.0\lesson001_HelloConsole.runtimeconfig.json
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\bin\Debug\net8.0\lesson001_HelloConsole.dll
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\bin\Debug\net8.0\lesson001_HelloConsole.pdb
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.AssemblyInfo.cs
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.dll
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\refint\lesson001_HelloConsole.dll
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.pdb
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\lesson001_HelloConsole.genruntimeconfig.cache
+C:\Users\Wavednight\Desktop\lesson06\lesson001_HelloConsole\obj\Debug\net8.0\ref\lesson001_HelloConsole.dll
